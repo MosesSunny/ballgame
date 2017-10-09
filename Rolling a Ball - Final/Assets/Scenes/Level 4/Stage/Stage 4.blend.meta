@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: ce4ce7126106bc645a5d50677d75f0cc
+timeCreated: 1506604040
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boundary
+    100002: Green_Teleport
+    100004: Green_Teleport_Off
+    100006: Green_Teleport_On
+    100008: Green_Teleport_On_001
+    100010: Land_1
+    100012: Land_2
+    100014: Land_3
+    100016: Player
+    100018: Red_Teleport
+    100020: Red_Teleport_Off
+    100022: Red_Teleport_On
+    100024: Space_Stone
+    100026: Spinner
+    100028: //RootNode
+    100030: Yellow_Teleport
+    100032: Yellow_Teleport_Off
+    100034: Yellow_Teleport_On
+    100036: Yellow_Teleport_On_001
+    400000: Boundary
+    400002: Green_Teleport
+    400004: Green_Teleport_Off
+    400006: Green_Teleport_On
+    400008: Green_Teleport_On_001
+    400010: Land_1
+    400012: Land_2
+    400014: Land_3
+    400016: Player
+    400018: Red_Teleport
+    400020: Red_Teleport_Off
+    400022: Red_Teleport_On
+    400024: Space_Stone
+    400026: Spinner
+    400028: //RootNode
+    400030: Yellow_Teleport
+    400032: Yellow_Teleport_Off
+    400034: Yellow_Teleport_On
+    400036: Yellow_Teleport_On_001
+    2300000: Boundary
+    2300002: Green_Teleport_Off
+    2300004: Green_Teleport_On
+    2300006: Green_Teleport_On_001
+    2300008: Land_1
+    2300010: Land_2
+    2300012: Land_3
+    2300014: Player
+    2300016: Red_Teleport_Off
+    2300018: Red_Teleport_On
+    2300020: Space_Stone
+    2300022: Spinner
+    2300024: Yellow_Teleport_Off
+    2300026: Yellow_Teleport_On
+    2300028: Yellow_Teleport_On_001
+    3300000: Boundary
+    3300002: Green_Teleport_Off
+    3300004: Green_Teleport_On
+    3300006: Green_Teleport_On_001
+    3300008: Land_1
+    3300010: Land_2
+    3300012: Land_3
+    3300014: Player
+    3300016: Red_Teleport_Off
+    3300018: Red_Teleport_On
+    3300020: Space_Stone
+    3300022: Spinner
+    3300024: Yellow_Teleport_Off
+    3300026: Yellow_Teleport_On
+    3300028: Yellow_Teleport_On_001
+    4300000: Spinner
+    4300002: Land_3
+    4300004: Space_Stone
+    4300006: Player
+    4300008: Land_2
+    4300010: Land_1
+    4300012: Boundary
+    4300014: Yellow_Teleport_On_001
+    4300016: Yellow_Teleport_Off
+    4300018: Yellow_Teleport_On
+    4300020: Green_Teleport_On_001
+    4300022: Green_Teleport_On
+    4300024: Green_Teleport_Off
+    4300026: Red_Teleport_Off
+    4300028: Red_Teleport_On
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

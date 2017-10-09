@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: ceb4a96d0a35ec341a67b551ba12301e
+timeCreated: 1506600484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_Teleport
+    100002: A_Teleport_Off
+    100004: A_Teleport_On
+    100006: A_Teleport_On2
+    100008: B_Teleport
+    100010: B_Teleport_Off
+    100012: B_Teleport_On
+    100014: Boundary
+    100016: C_Teleport
+    100018: C_Teleport_Off
+    100020: C_Teleport_On
+    100022: D_Teleport
+    100024: D_Teleport_Off
+    100026: D_Teleport_On
+    100028: Land_1
+    100030: Land_2
+    100032: Land_3
+    100034: Land_4
+    100036: Land_5
+    100038: Land_6
+    100040: Land_7
+    100042: Player
+    100044: Q_Teleport
+    100046: Q_Teleport_Off
+    100048: Q_Teleport_On
+    100050: R_Teleport
+    100052: R_Teleport_Off
+    100054: R_Teleport_On
+    100056: Reality_Stone
+    100058: //RootNode
+    100060: W_Teleport
+    100062: W_Teleport_Off
+    100064: W_Teleport_On
+    100066: W_Teleport_On_2
+    100068: W_Teleport_On_3
+    100070: X_Teleport
+    100072: X_Teleport_Off
+    100074: X_Teleport_On
+    100076: Z_Teleport
+    100078: Z_Teleport_Off
+    400000: A_Teleport
+    400002: A_Teleport_Off
+    400004: A_Teleport_On
+    400006: A_Teleport_On2
+    400008: B_Teleport
+    400010: B_Teleport_Off
+    400012: B_Teleport_On
+    400014: Boundary
+    400016: C_Teleport
+    400018: C_Teleport_Off
+    400020: C_Teleport_On
+    400022: D_Teleport
+    400024: D_Teleport_Off
+    400026: D_Teleport_On
+    400028: Land_1
+    400030: Land_2
+    400032: Land_3
+    400034: Land_4
+    400036: Land_5
+    400038: Land_6
+    400040: Land_7
+    400042: Player
+    400044: Q_Teleport
+    400046: Q_Teleport_Off
+    400048: Q_Teleport_On
+    400050: R_Teleport
+    400052: R_Teleport_Off
+    400054: R_Teleport_On
+    400056: Reality_Stone
+    400058: //RootNode
+    400060: W_Teleport
+    400062: W_Teleport_Off
+    400064: W_Teleport_On
+    400066: W_Teleport_On_2
+    400068: W_Teleport_On_3
+    400070: X_Teleport
+    400072: X_Teleport_Off
+    400074: X_Teleport_On
+    400076: Z_Teleport
+    400078: Z_Teleport_Off
+    2300000: A_Teleport_Off
+    2300002: A_Teleport_On
+    2300004: A_Teleport_On2
+    2300006: B_Teleport_Off
+    2300008: B_Teleport_On
+    2300010: Boundary
+    2300012: C_Teleport_Off
+    2300014: C_Teleport_On
+    2300016: D_Teleport_Off
+    2300018: D_Teleport_On
+    2300020: Land_1
+    2300022: Land_2
+    2300024: Land_3
+    2300026: Land_4
+    2300028: Land_5
+    2300030: Land_6
+    2300032: Land_7
+    2300034: Player
+    2300036: Q_Teleport_Off
+    2300038: Q_Teleport_On
+    2300040: R_Teleport_Off
+    2300042: R_Teleport_On
+    2300044: Reality_Stone
+    2300046: W_Teleport_Off
+    2300048: W_Teleport_On
+    2300050: W_Teleport_On_2
+    2300052: W_Teleport_On_3
+    2300054: X_Teleport_Off
+    2300056: X_Teleport_On
+    2300058: Z_Teleport_Off
+    3300000: A_Teleport_Off
+    3300002: A_Teleport_On
+    3300004: A_Teleport_On2
+    3300006: B_Teleport_Off
+    3300008: B_Teleport_On
+    3300010: Boundary
+    3300012: C_Teleport_Off
+    3300014: C_Teleport_On
+    3300016: D_Teleport_Off
+    3300018: D_Teleport_On
+    3300020: Land_1
+    3300022: Land_2
+    3300024: Land_3
+    3300026: Land_4
+    3300028: Land_5
+    3300030: Land_6
+    3300032: Land_7
+    3300034: Player
+    3300036: Q_Teleport_Off
+    3300038: Q_Teleport_On
+    3300040: R_Teleport_Off
+    3300042: R_Teleport_On
+    3300044: Reality_Stone
+    3300046: W_Teleport_Off
+    3300048: W_Teleport_On
+    3300050: W_Teleport_On_2
+    3300052: W_Teleport_On_3
+    3300054: X_Teleport_Off
+    3300056: X_Teleport_On
+    3300058: Z_Teleport_Off
+    4300000: Land_7
+    4300002: Land_6
+    4300004: Land_5
+    4300006: Land_4
+    4300008: Land_3
+    4300010: Land_2
+    4300012: Reality_Stone
+    4300014: Player
+    4300016: Land_1
+    4300018: Boundary
+    4300020: Z_Teleport_Off
+    4300022: X_Teleport_Off
+    4300024: X_Teleport_On
+    4300026: W_Teleport_On_3
+    4300028: W_Teleport_On_2
+    4300030: W_Teleport_On
+    4300032: W_Teleport_Off
+    4300034: Q_Teleport_Off
+    4300036: Q_Teleport_On
+    4300038: D_Teleport_Off
+    4300040: D_Teleport_On
+    4300042: B_Teleport_Off
+    4300044: B_Teleport_On
+    4300046: A_Teleport_On2
+    4300048: A_Teleport_Off
+    4300050: A_Teleport_On
+    4300052: C_Teleport_On
+    4300054: C_Teleport_Off
+    4300056: R_Teleport_Off
+    4300058: R_Teleport_On
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
